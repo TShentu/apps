@@ -1,4 +1,4 @@
-terminusManifest.version: '0.0.6'
+terminusManifest.version: '0.7.1'
 terminusManifest.type: app
 metadata:
   name: farcasterhubble
@@ -6,7 +6,7 @@ metadata:
   description: An official Farcaster Hub implementation
   appid: farcasterhubble
   title: Hubble
-  version: 0.0.28
+  version: 0.0.29
   categories:
   - Social Network
   - Blockchain
@@ -62,8 +62,9 @@ spec:
   website: https://www.thehubble.xyz/
   sourceCode: https://github.com/farcasterxyz/hub-monorepo
   submitter: Terminus
-  language:
-  - en
+  locale:
+  - en-US
+  - zh-CN
   doc: https://www.thehubble.xyz/intro/hubble.html
   license:
   - text: MIT
